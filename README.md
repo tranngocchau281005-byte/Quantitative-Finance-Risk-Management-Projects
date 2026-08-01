@@ -5,37 +5,9 @@ A collection of quantitative finance projects completed as part of my coursework
 
 
 
+
 ## Projects
 
-### Value at Risk (VaR) Analysis
-- **Description:** Estimate market risk using multiple VaR methodologies.
-- **Language:** R
-- **Repository:** https://github.com/tranngocchau281005-byte/VaR-Analysis
-
-### Moody's KMV Credit Risk Model
-- **Description:** Estimate Distance to Default (DD) and Probability of Default (PD).
-- **Language:** R
-- **Repository:** https://github.com/tranngocchau281005-byte/KMV-Credit-Risk-Model
-
-### Genetic Algorithm Portfolio Optimization
-- **Description:** Optimize portfolio allocation using a genetic algorithm.
-- **Language:** Python
-- **Repository:** https://github.com/tranngocchau281005-byte/Genetic-Algorithm
-
-### ARCH–GARCH Volatility Analysis
-- **Description:** Model conditional volatility of stock returns.
-- **Language:** Python
-- **Repository:** https://github.com/tranngocchau281005-byte/ARCH-GARCH-Volatility-Modeling
-
-### Herding Behavior Analysis
-- **Description:** Analyze market herding using rolling CAPM betas and a state-space model.
-- **Language:** R
-- **Repository:** https://github.com/tranngocchau281005-byte/Herding-Behavior-Analysis
-
-### Drawdown & Maximum Drawdown
-- **Description:** Measure downside risk using drawdown analysis.
-- **Language:** Python
-- **Repository:** https://github.com/tranngocchau281005-byte/Maximum-Drawdown-Analysis
 
 <table>
 <tr><td>
@@ -44,8 +16,7 @@ A collection of quantitative finance projects completed as part of my coursework
 
 <b>Description:</b> Estimate market risk using multiple VaR methodologies.<br>
 <b>Language:</b> R<br>
-<b>Repository:</b> <a href="">https://github.com/tranngocchau281005-byte/VaR-Analysis
-</a>
+<b>Repository:</b> <a href="">GitHub</a>
 
 </td></tr>
 </table>
@@ -57,50 +28,55 @@ A collection of quantitative finance projects completed as part of my coursework
 
 <b>Description:</b> Estimate Distance to Default (DD) and Probability of Default (PD).<br>
 <b>Language:</b> R<br>
-<b>Repository:</b> <a href="">https://github.com/tranngocchau281005-byte/KMV-Credit-Risk-Model
-</a>
+<b>Repository:</b> <a href="">GitHub</a>
 
 </td></tr>
 </table>
 
-## Projects
+<table>
+<tr><td>
 
-> ### 📊 Value at Risk (VaR) Analysis
-> **Description:** Estimate market risk using multiple VaR methodologies.  
-> **Language:** R  
-> **Repository:** 🔗 [GitHub](...)
+<h3>🧬 Genetic Algorithm Portfolio Optimization</h3>
 
----
+<b>Description:</b> Optimize portfolio allocation using a genetic algorithm.<br>
+<b>Language:</b> Python<br>
+<b>Repository:</b> <a href="">https://github.com/tranngocchau281005-byte/Genetic-Algorithm</a>
 
-> ### 🏦 Moody's KMV Credit Risk Model
-> **Description:** Estimate Distance to Default (DD) and Probability of Default (PD).  
-> **Language:** R  
-> **Repository:** 🔗 [GitHub](...)
+</td></tr>
+</table>
 
----
+<table>
+<tr><td>
 
-> ### 🧬 Genetic Algorithm Portfolio Optimization
-> **Description:** Optimize portfolio allocation using a genetic algorithm.  
-> **Language:** Python  
-> **Repository:** 🔗 [GitHub](...)
+<h3>📈 ARCH–GARCH Volatility Analysis</h3>
 
----
+<b>Description:</b> Model conditional volatility of stock returns. <br>
+<b>Language:</b> Python<br>
+<b>Repository:</b> <a href="">https://github.com/tranngocchau281005-byte/ARCH-GARCH-Volatility-Modeling</a>
 
-> ### 📈 ARCH–GARCH Volatility Analysis
-> **Description:** Model conditional volatility of stock returns.  
-> **Language:** Python  
-> **Repository:** 🔗 [GitHub](...)
+</td></tr>
+</table>
 
----
+<table>
+<tr><td>
 
-> ### 👥 Herding Behavior Analysis
-> **Description:** Analyze market herding using rolling CAPM betas and a state-space model.  
-> **Language:** R  
-> **Repository:** 🔗 [GitHub](...)
+<h3>👥 Herding Behavior Analysis</h3>
 
----
+<b>Description:</b> Analyze market herding using rolling CAPM betas and a state-space model.  <br>
+<b>Language:</b> Python<br>
+<b>Repository:</b> <a href="">https://github.com/tranngocchau281005-byte/Herding-Behavior-Analysis</a>
 
-> ### 📉 Drawdown & Maximum Drawdown
-> **Description:** Measure downside risk using drawdown analysis.  
-> **Language:** Python  
-> **Repository:** 🔗 [GitHub](...)
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+<h3> 📉 Drawdown & Maximum Drawdown</h3>
+
+<b>Description:</b>Measure downside risk using drawdown analysis. <br>
+<b>Language:</b> Python<br>
+<b>Repository:</b> <a href="">https://github.com/tranngocchau281005-byte/Maximum-Drawdown-Analysis</a>
+
+</td></tr>
+</table>
