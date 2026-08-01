@@ -1,4 +1,4 @@
-# Quantitative-Finance-and-Risk-Management-Projects
+# Quantitative Finance and Risk Management Projects
 
 A collection of quantitative finance projects completed as part of my coursework. These projects demonstrate applications of risk management, quantitative analysis, portfolio optimization, and time series modeling using Python and R.
 ## Projects
