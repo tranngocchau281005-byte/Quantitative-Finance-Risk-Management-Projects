@@ -12,4 +12,14 @@ A collection of quantitative finance projects completed as part of my coursework
 | Herding Behavior Analysis | Analyze market herding using rolling CAPM betas and a state-space model. | Python | https://github.com/tranngocchau281005-byte/Herding-Behavior-Analysis |
 | Drawdown & Maximum Drawdown | Measure downside risk using drawdown analysis. | Python | https://github.com/tranngocchau281005-byte/Maximum-Drawdown-Analysis |
 
+## Projects
 
+### Value at Risk (VaR) Analysis
+- **Description:** Estimate market risk using multiple VaR methodologies.
+- **Language:** R
+- **Repository:** https://github.com/tranngocchau281005-byte/VaR-Analysis
+
+### Moody's KMV Credit Risk Model
+- **Description:** Estimate Distance to Default (DD) and Probability of Default (PD).
+- **Language:** R
+- **Repository:** https://github.com/tranngocchau281005-byte/KMV-Credit-Risk-Model
