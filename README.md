@@ -44,7 +44,8 @@ A collection of quantitative finance projects completed as part of my coursework
 
 <b>Description:</b> Estimate market risk using multiple VaR methodologies.<br>
 <b>Language:</b> R<br>
-<b>Repository:</b> <a href="">GitHub</a>
+<b>Repository:</b> <a href="">https://github.com/tranngocchau281005-byte/VaR-Analysis
+</a>
 
 </td></tr>
 </table>
@@ -56,7 +57,8 @@ A collection of quantitative finance projects completed as part of my coursework
 
 <b>Description:</b> Estimate Distance to Default (DD) and Probability of Default (PD).<br>
 <b>Language:</b> R<br>
-<b>Repository:</b> <a href="">GitHub</a>
+<b>Repository:</b> <a href="">https://github.com/tranngocchau281005-byte/KMV-Credit-Risk-Model
+</a>
 
 </td></tr>
 </table>
