@@ -74,7 +74,7 @@ A collection of quantitative finance projects completed as part of my coursework
 
 <h3> 📉 Drawdown & Maximum Drawdown</h3>
 
-<b>Description:</b>Measure downside risk using drawdown analysis. <br>
+<b>Description:</b> Measure downside risk using drawdown analysis. <br>
 <b>Language:</b> Python<br>
 <b>Repository:</b> <a href="">https://github.com/tranngocchau281005-byte/Maximum-Drawdown-Analysis</a>
 
