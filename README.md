@@ -61,3 +61,44 @@ A collection of quantitative finance projects completed as part of my coursework
 </td></tr>
 </table>
 
+## Projects
+
+> ### 📊 Value at Risk (VaR) Analysis
+> **Description:** Estimate market risk using multiple VaR methodologies.  
+> **Language:** R  
+> **Repository:** 🔗 [GitHub](...)
+
+---
+
+> ### 🏦 Moody's KMV Credit Risk Model
+> **Description:** Estimate Distance to Default (DD) and Probability of Default (PD).  
+> **Language:** R  
+> **Repository:** 🔗 [GitHub](...)
+
+---
+
+> ### 🧬 Genetic Algorithm Portfolio Optimization
+> **Description:** Optimize portfolio allocation using a genetic algorithm.  
+> **Language:** Python  
+> **Repository:** 🔗 [GitHub](...)
+
+---
+
+> ### 📈 ARCH–GARCH Volatility Analysis
+> **Description:** Model conditional volatility of stock returns.  
+> **Language:** Python  
+> **Repository:** 🔗 [GitHub](...)
+
+---
+
+> ### 👥 Herding Behavior Analysis
+> **Description:** Analyze market herding using rolling CAPM betas and a state-space model.  
+> **Language:** R  
+> **Repository:** 🔗 [GitHub](...)
+
+---
+
+> ### 📉 Drawdown & Maximum Drawdown
+> **Description:** Measure downside risk using drawdown analysis.  
+> **Language:** Python  
+> **Repository:** 🔗 [GitHub](...)
