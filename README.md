@@ -37,3 +37,27 @@ A collection of quantitative finance projects completed as part of my coursework
 - **Language:** Python
 - **Repository:** https://github.com/tranngocchau281005-byte/Maximum-Drawdown-Analysis
 
+<table>
+<tr><td>
+
+<h3>📊 Value at Risk (VaR) Analysis</h3>
+
+<b>Description:</b> Estimate market risk using multiple VaR methodologies.<br>
+<b>Language:</b> R<br>
+<b>Repository:</b> <a href="">GitHub</a>
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+<h3>🏦 Moody's KMV Credit Risk Model</h3>
+
+<b>Description:</b> Estimate Distance to Default (DD) and Probability of Default (PD).<br>
+<b>Language:</b> R<br>
+<b>Repository:</b> <a href="">GitHub</a>
+
+</td></tr>
+</table>
+
