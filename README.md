@@ -1,8 +1,6 @@
 # Quantitative-Finance-and-Risk-Management-Projects
-# Quantitative Finance Projects
 
-A collection of quantitative finance projects completed as part of my coursework and self-study. These projects demonstrate applications of financial modeling, risk management, portfolio optimization, and quantitative analysis using Python and R.
-
+A collection of quantitative finance projects completed as part of my coursework. These projects demonstrate applications of risk management, quantitative analysis, portfolio optimization, and time series modeling using Python and R.
 ## Projects
 
 | Project | Description | Language | Report |
@@ -14,13 +12,4 @@ A collection of quantitative finance projects completed as part of my coursework
 | Herding Behavior Analysis | Analyze market herding using rolling CAPM betas and a state-space model. | Python | 🔗 |
 | Drawdown & Maximum Drawdown | Measure downside risk using drawdown analysis. | Python | 🔗 |
 
-## Skills Demonstrated
 
-- Financial Risk Management
-- Credit Risk Modeling
-- Portfolio Optimization
-- Time Series Analysis
-- Volatility Modeling
-- Quantitative Finance
-- Python
-- R
