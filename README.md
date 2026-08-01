@@ -24,7 +24,7 @@ A collection of quantitative finance projects completed as part of my coursework
 <table>
 <tr><td>
 
-<h3>🏦 Moody's KMV Credit Risk Model</h3>
+<h3>💳 Moody's KMV Credit Risk Model</h3>
 
 <b>Description:</b> Estimate Distance to Default (DD) and Probability of Default (PD).<br>
 <b>Language:</b> R<br>
